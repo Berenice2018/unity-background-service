@@ -1,0 +1,5 @@
+/Users/admin/Documents/GitHub/_TestExperiments/unity-background-service/BGService-Unity3DProject/.utmp/RelWithDebInfo/6h6r2z4a/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/admin/Documents/GitHub/_TestExperiments/unity-background-service/BGService-Unity3DProject/.utmp/RelWithDebInfo/6h6r2z4a/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/admin/Documents/GitHub/_TestExperiments/unity-background-service/BGService-Unity3DProject/.utmp/RelWithDebInfo/6h6r2z4a/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/admin/Documents/GitHub/_TestExperiments/unity-background-service/BGService-Unity3DProject/.utmp/RelWithDebInfo/6h6r2z4a/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/admin/Documents/GitHub/_TestExperiments/unity-background-service/BGService-Unity3DProject/.utmp/RelWithDebInfo/6h6r2z4a/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

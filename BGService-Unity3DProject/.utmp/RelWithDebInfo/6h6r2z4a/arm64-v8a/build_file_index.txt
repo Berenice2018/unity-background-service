@@ -1,0 +1,2 @@
+/Users/admin/Documents/GitHub/_TestExperiments/unity-background-service/BGService-Unity3DProject/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Users/admin/Documents/GitHub/_TestExperiments/unity-background-service/BGService-Unity3DProject/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/FramePacing/CMakeLists.txt

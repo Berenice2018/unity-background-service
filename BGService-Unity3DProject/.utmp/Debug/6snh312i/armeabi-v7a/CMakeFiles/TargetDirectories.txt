@@ -1,0 +1,5 @@
+/Users/admin/Documents/GitHub/_TestExperiments/unity-background-service/BGService-Unity3DProject/.utmp/Debug/6snh312i/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/admin/Documents/GitHub/_TestExperiments/unity-background-service/BGService-Unity3DProject/.utmp/Debug/6snh312i/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/admin/Documents/GitHub/_TestExperiments/unity-background-service/BGService-Unity3DProject/.utmp/Debug/6snh312i/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/admin/Documents/GitHub/_TestExperiments/unity-background-service/BGService-Unity3DProject/.utmp/Debug/6snh312i/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/admin/Documents/GitHub/_TestExperiments/unity-background-service/BGService-Unity3DProject/.utmp/Debug/6snh312i/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
